@@ -17,4 +17,6 @@
 [5]: https://www.facebook.com/mohith.vegi.7
 [6]: https://www.youtube.com/channel/UCxBVIW5ijdN7sASVxAIvE5w
 
-[![Mohith's github stats](https://github-readme-stats.vercel.app/api?username=mohithvegi&show_icons=true&theme=radical)](https://github.com/VegiMohnish/github-readme-stats)
+[![Mohith's github stats](https://github-readme-stats.vercel.app/api?username=mohithvegi&show_icons=true&theme=radical)](https://github.com/mohithvegi/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohithvegi&layout=compact)](https://github.com/mohithvegi/github-readme-stats)
