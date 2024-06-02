@@ -1,5 +1,5 @@
 - 🏬 I studied in [IIITB][2]
-- 📚 I’m currently working as Associate Solution Leader at Brane Enterprises.
+- 📚 I’m currently working as Solution Leader at Brane Enterprises.
 - ⚽ Sports Lover..
 
 -  How to reach me through social media: [![Twitter][3.2]][4]  [![LinkedIn][1.2]][1]  [![Instagram][2.2]][3]  [![Facebook][5.2]][5]  [![Youtube][4.2]][6].
